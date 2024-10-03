@@ -9,10 +9,8 @@ _Este projeto é um trabalho da faculdade e tem como finalidade construir e revi
 - Descrição da solução (250 caracteres)
 - personas para a solução
 - Jornadas do usuário
-<br>
 - Backlog do produto <b>priorizado<b> com o cliente
 - Detalhamento das histórias de usuários e critérios de aceitação
-<br>
 - Stack de desenvolvimento
 - Wireframe de baixa fidelidade
 <br><br>
