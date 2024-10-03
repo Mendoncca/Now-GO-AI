@@ -4,7 +4,7 @@
 _Este projeto é um trabalho da faculdade e tem como finalidade construir e revisar um site funcional para a empresa Now GO-AI.
 <br>_
 
-### Entrega Parcial
+## Entrega Parcial
 - Descrição do problema (250 caracteres)
 - Descrição da solução (250 caracteres)
 - personas para a solução
@@ -15,7 +15,7 @@ _Este projeto é um trabalho da faculdade e tem como finalidade construir e revi
 - Wireframe de baixa fidelidade
 <br><br>
 
-### Contribuição
+## Contribuição
 - Igor Sudo Prado
 - Leticia Nery Silva
 - André Luiz de Freitas Ornelas
