@@ -16,11 +16,11 @@ _Este projeto é um trabalho da faculdade e tem como finalidade construir e revi
 <br><br>
 
 ### Contribuição
-- Igor Sudo Prado
+- Igor Prado Sudo
 - Leticia Nery Silva
 - André Luiz de Freitas Ornelas
 - Gabriel Mendonça da Costa
 - Mariana de Sene Santos
-- Daniel  de Miranda Barbosa
+- Daniel de Miranda Barbosa
 - Luanna Silva Pereira
 - Juan Felipe Nogueira de Freitas
