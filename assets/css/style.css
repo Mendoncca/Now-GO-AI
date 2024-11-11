@@ -6854,6 +6854,7 @@ textarea:-ms-input-placeholder {
   padding: 40px 45px 40px;
   margin-top: 30px;
   position: relative;
+  height: 530px;
 }
 
 .choose-us-item-02 .choose-us-img img {
@@ -6896,6 +6897,9 @@ textarea:-ms-input-placeholder {
 @media only screen and (max-width: 767px) {
   .techwix-choose-us-section-03 {
     padding-top: 60px;
+  }
+  .choose-us-item-02 {
+    height: 400px;
   }
 }
 
